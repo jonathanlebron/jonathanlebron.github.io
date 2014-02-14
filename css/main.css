@@ -110,7 +110,7 @@ body {
 
 #content{
     width: 80%;
-    min-width: 400px;
+    min-width: 320px;
     max-width: 960px;
     margin: 0 auto;
     padding: 0;
@@ -120,7 +120,7 @@ body {
 #name {
     margin: 0 auto;
     width: 46%;
-    min-width: 300px;
+    min-width: 270px;
     display: inline-block;
 }
 
@@ -150,7 +150,7 @@ mark {
 
 #random_picture {
     width: 75%;
-    min-width: 400px;
+    min-width: 320px;
 }
 
 footer {
